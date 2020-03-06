@@ -1,0 +1,2 @@
+Smart_Cube is a restaurant wizard.
+
